@@ -1,0 +1,5 @@
+###deleting different dictionary elements###
+mydict={"c":"easy","c++":"moderate","java":"comparatively tough"}
+print(mydict)
+del mydict["c"]
+print(mydict)
